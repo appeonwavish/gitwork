@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "app.pbt";
+ 1 "testtarget.pbt";
+@end;
+DefaultTarget "app.pbt";
+DefaultRemoteTarget "app.pbt";
